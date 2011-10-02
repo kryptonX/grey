@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "grey", "grey\grey.vcxproj", "{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859} = {EAE14B87-6CE5-4147-932F-AAF5426AB859}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "syringe", "s-irecovery\_ide\msvc\syringe.vcxproj", "{EAE14B87-6CE5-4147-932F-AAF5426AB859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug-Dynlink|Win32 = Debug-Dynlink|Win32
+		Release|Win32 = Release|Win32
+		Release-Dynlink|Win32 = Release-Dynlink|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Debug|Win32.Build.0 = Debug|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Debug-Dynlink|Win32.ActiveCfg = Debug|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Debug-Dynlink|Win32.Build.0 = Debug|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Release|Win32.ActiveCfg = Release|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Release|Win32.Build.0 = Release|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Release-Dynlink|Win32.ActiveCfg = Release|Win32
+		{F0F1A70C-44B8-4B8E-B2B0-FC37DC83C6F1}.Release-Dynlink|Win32.Build.0 = Release|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Debug|Win32.Build.0 = Debug|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Debug-Dynlink|Win32.ActiveCfg = Debug-Dynlink|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Debug-Dynlink|Win32.Build.0 = Debug-Dynlink|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Release|Win32.ActiveCfg = Release|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Release|Win32.Build.0 = Release|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Release-Dynlink|Win32.ActiveCfg = Release-Dynlink|Win32
+		{EAE14B87-6CE5-4147-932F-AAF5426AB859}.Release-Dynlink|Win32.Build.0 = Release-Dynlink|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

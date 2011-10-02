@@ -1,0 +1,11 @@
+Written in C++
+./args
+
+-a		Start act module
+-ab		Set autoboot to true
+-b		BDID
+-c <command>	Send Comand
+-m		Grab Mode
+
+## Although similar to s-irecovery this uses specific iBoot commands and CAN be used to get the device's
+mode in a high level language

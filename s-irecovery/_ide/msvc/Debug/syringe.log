@@ -1,0 +1,32 @@
+﻿  common.c
+  Generating Code...
+  Compiling...
+  libpois0n.c
+  libirecovery.c
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(64): warning C4200: nonstandard extension used : zero-sized array in struct/union
+          Cannot generate copy-ctor or copy-assignment operator when UDT contains a zero-sized array
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(654): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(818): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(363) : see declaration of '_snprintf'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(865): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(878): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(891): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(912): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(925): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(948): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(363) : see declaration of '_snprintf'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(1007): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(1034): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\utilisateur\desktop\projects\c++\grey\s-irecovery\syringe\libirecovery.c(1243): warning C4018: '<' : signed/unsigned mismatch
+  steaks4uce.c
+  limera1n.c
+  Generating Code...
+  syringe.vcxproj -> C:\Users\Utilisateur\Desktop\Projects\C++\grey\Debug\syringe.lib
